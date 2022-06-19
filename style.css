@@ -49,7 +49,7 @@ h6 { font-size: 14px; }
 /* End of Ηeadings */
 
 p { font-family: inherit; font-size: 17px; line-height: 1.5; margin: 0 0 17px 0;  font-weight: 300;}
-ul li, ol li { font-family: inherit; font-size: 17px; line-height: 1.5; font-weight: 300;}
+ul li, ol li { font-family: inherit; font-size: 17px; line-height: 1.5; font-weight: 300; margin-bottom: 10px;}
 hr { border: solid #999; border-width: 1px 0 0; clear: both; height: 0; margin: 21px 0; }
 hr.small { border: solid #313740; border-width: 1px 0 0; clear: both; height: 0; margin: 0 auto; margin-top:21px; margin-bottom:21px; max-width:100px;}
 
@@ -932,7 +932,7 @@ nav.products ul.pagination li a:hover {background: #3190E7; color:#fff;}
 .sidebar.shop .widget span.price { font-size:15px; letter-spacing: .12em; margin:6px 0; padding:0; font-weight:300; display:block;}
 
 /* Product Single */
-  section.content.product-single {padding:65px 0 0;}
+  /* section.content.product-single {padding:65px 0 0;} */
 #single-product-carousel.owl-carousel {margin-top:20px;}
 #single-product-carousel.owl-carousel .owl-controls {padding:20px;}
 #single-product-carousel.owl-carousel .owl-controls .owl-nav [class*="owl-"] {  background: #666666 none repeat scroll 0 0;  }
